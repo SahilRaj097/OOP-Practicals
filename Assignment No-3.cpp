@@ -59,3 +59,16 @@ int main()
 
     return 0;
 }
+
+//OUTPUT
+--- Employee Records (HR View) ---
+ID: 101
+Name: Alice Smith
+Department: HR
+Salary: $55000
+---------------------------
+ID: 102
+Name: Bob Jones
+Department: Engineering
+Salary: $75000
+---------------------------

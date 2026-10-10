@@ -48,3 +48,17 @@ cout << "Second Book Details:" << endl;
 book2.display();
 return 0;
 }
+
+//OUTPUT
+First Book Details:
+Book ID: 101
+Title: C++ Programming
+Author: Bjarne Stroustrup
+Price: Rs. 500
+------------------------
+Second Book Details:
+Book ID: 102
+Title: Object Oriented Programming
+Author: Robert Lafore
+Price: Rs. 650
+------------------------

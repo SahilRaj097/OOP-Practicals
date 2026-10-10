@@ -134,3 +134,14 @@ int main()
 
     return 0;
 }
+
+//OUTPUT
+=== College Record Digitization System ===
+
+1. Add New Student Record
+2. Display All Student Records
+3. Search Student by Roll Number
+4. Exit
+Enter your choice: 4
+
+Exiting system. Goodbye!

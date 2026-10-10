@@ -40,7 +40,4 @@ book.recordBook();
 book.displayBook();
 return 0;
 }
-Title : Merchant of Veniece
-Author : William Shakesapeare
-ISBN : 728925259
-Price : 1000
+

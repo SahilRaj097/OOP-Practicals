@@ -40,15 +40,6 @@ book.recordBook();
 book.displayBook();
 return 0;
 }
-
-//OUTPUT
-===== Digital Book Inventory System =====
-Enter Book Title: Merchant of Veniece
-Enter Author Name: William Shakesapeare
-Enter ISBN: 728925259
-Enter Price: 1000
-
------ Book Information -----
 Title : Merchant of Veniece
 Author : William Shakesapeare
 ISBN : 728925259

@@ -58,7 +58,7 @@ cout << "Team Size: " << teamSize << endl;
 };
 int main()
 {
-Manager manager("Anjali", 40, "9876543210", 101, "HR", 8);
+Manager manager("Sahil", 20, "5465543210", 121, "HR", 2);
 cout << "--- Manager Details ---" << endl;
 manager.displayManager();
 return 0;
